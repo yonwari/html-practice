@@ -1,0 +1,38 @@
+ /* ブラウザがそれぞれ持っているCSSをリセットするため */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.visual1 {
+	width: 100%;
+	height: 200px;
+	background-image: url(img/box1.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.visual2 {
+	width: 100%;
+	height: 200px;
+	background-image: url(img/box2.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.visual3 {
+	width: 100%;
+	height: 200px;
+	background-image: url(img/box3.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.visual4 {
+	width: 100%;
+	height: 200px;
+	background-image: url(img/box4.jpg);
+	background-position: center;
+	background-size: cover;
+}
